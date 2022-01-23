@@ -1,4 +1,4 @@
-package ac.id.atmaluhur.mhs.register;
+package ac.id.atmaluhur.mhs.notif;
 
 import org.junit.Test;
 
