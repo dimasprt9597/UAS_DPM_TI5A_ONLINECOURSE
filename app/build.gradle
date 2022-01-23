@@ -6,7 +6,7 @@ android {
     compileSdk 32
 
     defaultConfig {
-        applicationId "ac.id.atmaluhur.mhs.login"
+        applicationId "ac.id.atmaluhur.mhs.register"
         minSdk 19
         targetSdk 32
         versionCode 1
