@@ -1,4 +1,4 @@
-package ac.id.atmaluhur.mhs.account;
+package ac.id.atmaluhur.mhs.login;
 
 import org.junit.Test;
 
