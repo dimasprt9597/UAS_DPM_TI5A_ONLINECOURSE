@@ -9,4 +9,6 @@
     <color name="white">#FFFFFFFF</color>
     <color name="orange">#FFC554</color>
     <color name="bg_orange">#F4E7D8</color>
+    <color name="gra_end">#FFC554</color>
+    <color name="gra_start">#F15700</color>
 </resources>
