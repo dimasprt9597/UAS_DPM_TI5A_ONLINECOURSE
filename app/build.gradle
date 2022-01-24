@@ -6,7 +6,7 @@ android {
     compileSdk 32
 
     defaultConfig {
-        applicationId "ac.id.atmaluhur.mhs.dashboard"
+        applicationId "ac.id.atmaluhur.mhs.onlinecourse"
         minSdk 19
         targetSdk 32
         versionCode 1
