@@ -6,5 +6,5 @@ dependencyResolutionManagement {
         jcenter() // Warning: this repository is going to shut down soon
     }
 }
-rootProject.name = "UAS_DPM_TI5A_DASHBOARD"
+rootProject.name = "UAS_DPM_TI5A_ONLINECOURSE"
 include ':app'
